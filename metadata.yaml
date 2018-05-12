@@ -1,0 +1,40 @@
+_repo: Hints-to-Pilgrims_37105
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Minard, Florence
+    gutenberg_agent_id: '6895'
+    url: http://www.gutenberg.org/2009/agents/6895
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Charles S. (Charles Stephen)
+    aliases:
+    - Brooks, Charles Stephen
+    - Brooks, C. S. (Charles Stephen)
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '3268'
+    url: http://www.gutenberg.org/2009/agents/3268
+description: ''
+gutenberg_issued: '2011-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37105'
+  lccn: '21008939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: Hints to pilgrims -- I plan a vacation -- At a toy-shop window --
+  Sic transit -- The posture of authors -- After-dinner pleasantries -- Little candles
+  -- A visit to a poet -- Autumn days -- On finding a plot -- Circus days -- In praise
+  of a lawn-mower -- On dropping off to sleep -- Who was Jeremy? -- A chapter for
+  children -- The crowded curb -- A corner for echoes.
+title: Hints to Pilgrims
+url: http://www.gutenberg.org/ebooks/37105
